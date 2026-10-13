@@ -2536,6 +2536,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 173.99) (xy 63.5 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2698bea4-926d-4ea1-8577-2c89406ba46f")
+	)
+	(wire
+		(pts
 			(xy 34.29 63.5) (xy 36.83 63.5)
 		)
 		(stroke
@@ -2943,6 +2953,16 @@
 			(type default)
 		)
 		(uuid "a74af349-f891-40a1-ae62-9aa62d4ffcbe")
+	)
+	(wire
+		(pts
+			(xy 57.15 170.18) (xy 63.5 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aeddf362-58c3-4491-ae77-5d5071bbf767")
 	)
 	(wire
 		(pts
@@ -3476,6 +3496,30 @@
 			)
 		)
 	)
+	(global_label "CAN_RX"
+		(shape input)
+		(at 63.5 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6bf128d-c093-4771-82bb-8352f7642d8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.6214 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "LSE_OSC_OUT"
 		(shape input)
 		(at 163.83 90.17 180)
@@ -3545,6 +3589,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "CAN_TX"
+		(shape input)
+		(at 63.5 173.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa6fe5da-7e9d-42df-a1cb-c2600aa7ad0c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.319 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -5778,7 +5846,7 @@
 	)
 	(sheet
 		(at 19.05 165.1)
-		(size 38.1 20.32)
+		(size 38.1 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5804,7 +5872,7 @@
 			)
 		)
 		(property "Sheetfile" "can_controller.kicad_sch"
-			(at 19.05 186.0046 0)
+			(at 19.05 179.6546 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5813,6 +5881,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "CAN_RX" input
+			(at 57.15 170.18 0)
+			(uuid "72eb2030-170e-49dc-b71e-d09b3bd992df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_TX" input
+			(at 57.15 173.99 0)
+			(uuid "828b13e8-2b58-4b54-8bf5-ed1bf807f481")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

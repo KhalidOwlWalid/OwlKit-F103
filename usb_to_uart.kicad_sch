@@ -968,6 +968,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 120.65 63.5)
+		(end 154.94 69.85)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0e0794d1-72e4-4732-90e3-8e2f8bf2faed")
+	)
+	(text "3V3OUT is an input pin since\nthe VCC for the FT230XS is 3.3V"
+		(exclude_from_sim no)
+		(at 137.922 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b002add6-7678-4e07-8ab0-226354744e77")
+	)
 	(junction
 		(at 128.27 91.44)
 		(diameter 0)

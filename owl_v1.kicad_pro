@@ -263,7 +263,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|1714500|1016000|f76a4987-e231-4b41-8c02-f5484f5181d0|b5493f66-f1b8-4b26-b301-0c6847b28d44|/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/ea5d8728-00f8-428c-b241-4d5d58a19c39|/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/ea5d8728-00f8-428c-b241-4d5d58a19c39|/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/0957bdde-5401-4edd-b240-649dc422b307",
+        "3V3OUT acts as an input pin since we are providing 3.3V for the VCC pin for the FT230XS. This is as detailed in the FT230XS datasheet."
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -665,7 +670,7 @@
         "uuid": "c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
       }
     ],
-    "used_designators": "#PWR1-21,C1-13,D1,FB1,J1,P1-2,R1-5,SW1,TP1-3,U1-3,Y1-2",
+    "used_designators": "#FLG1-3,#PWR1-26,C1-15,D1,FB1,J1-3,JP1,P1-2,R1-7,SW1,TP1-3,U1-4,Y1-2",
     "variants": []
   },
   "sheets": [
@@ -688,6 +693,10 @@
     [
       "f6cd643f-5adb-445a-a1b2-fca4b3835484",
       "Sensors"
+    ],
+    [
+      "6340c095-cbe0-44fc-b5b2-467dba768b3c",
+      "CAN Transceiver"
     ]
   ],
   "text_variables": {},

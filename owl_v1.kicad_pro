@@ -663,11 +663,6 @@
         "filename": "owl_v1.kicad_sch",
         "name": "owl_v1",
         "uuid": "c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
-      },
-      {
-        "filename": "usb_uart.kicad_sch",
-        "name": "usb_uart",
-        "uuid": "bf620787-efe5-4256-88d5-2cf15974a9f2"
       }
     ],
     "used_designators": "#PWR1-21,C1-13,D1,FB1,J1,P1-2,R1-5,SW1,TP1-3,U1-3,Y1-2",
@@ -679,8 +674,20 @@
       "owl_v1"
     ],
     [
-      "bf620787-efe5-4256-88d5-2cf15974a9f2",
-      "usb_uart"
+      "ea5d8728-00f8-428c-b241-4d5d58a19c39",
+      "USB Power Regulator"
+    ],
+    [
+      "0957bdde-5401-4edd-b240-649dc422b307",
+      "USB to UART Bridge"
+    ],
+    [
+      "d52cdafd-bcb4-4a55-a779-8e3cd50df227",
+      "IOs"
+    ],
+    [
+      "f6cd643f-5adb-445a-a1b2-fca4b3835484",
+      "Sensors"
     ]
   ],
   "text_variables": {},

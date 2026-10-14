@@ -2834,10 +2834,6 @@
 		(uuid "1599a3c5-38fa-4248-9f18-e4eda2342530")
 	)
 	(no_connect
-		(at 185.42 96.52)
-		(uuid "1fdd4d5d-c83a-447d-afca-10aeab04ef1e")
-	)
-	(no_connect
 		(at 185.42 91.44)
 		(uuid "2a311a4a-18a0-4045-b361-e627dcd5444f")
 	)
@@ -2856,10 +2852,6 @@
 	(no_connect
 		(at 220.98 71.12)
 		(uuid "64495f4a-47f2-4112-ac56-3eed912955b4")
-	)
-	(no_connect
-		(at 185.42 93.98)
-		(uuid "8525cb1e-59bf-47e1-a9d6-86e290b2d175")
 	)
 	(no_connect
 		(at 185.42 106.68)
@@ -3097,7 +3089,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 171.45) (xy 146.05 171.45)
+			(xy 139.7 161.29) (xy 146.05 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3497,6 +3489,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 96.52) (xy 185.42 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903b9c8a-5284-46b0-b335-790b693c7eec")
+	)
+	(wire
+		(pts
 			(xy 182.88 44.45) (xy 182.88 55.88)
 		)
 		(stroke
@@ -3557,6 +3559,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 154.94) (xy 41.91 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ce060e9-4d9e-4622-8eff-94e4e704e631")
+	)
+	(wire
+		(pts
 			(xy 27.94 101.6) (xy 27.94 102.87)
 		)
 		(stroke
@@ -3607,7 +3619,17 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 167.64) (xy 146.05 167.64)
+			(xy 35.56 151.13) (xy 41.91 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab7aa0c2-ac49-4128-b86f-55302a83cb61")
+	)
+	(wire
+		(pts
+			(xy 139.7 157.48) (xy 146.05 157.48)
 		)
 		(stroke
 			(width 0)
@@ -3644,6 +3666,16 @@
 			(type default)
 		)
 		(uuid "b078b057-87fd-49ac-aec4-5dc2d497eb1d")
+	)
+	(wire
+		(pts
+			(xy 182.88 93.98) (xy 185.42 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3852d4b-1174-430c-a29d-12605ec657ed")
 	)
 	(wire
 		(pts
@@ -4169,6 +4201,30 @@
 			)
 		)
 	)
+	(global_label "I2C_SDA"
+		(shape input)
+		(at 182.88 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "441b4488-357a-4605-b24d-7e4b0c3b6943")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 172.2748 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "HSE_OSC_OUT"
 		(shape input)
 		(at 52.07 31.75 0)
@@ -4409,6 +4465,30 @@
 			)
 		)
 	)
+	(global_label "I2C_SCLK"
+		(shape input)
+		(at 35.56 154.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "91068d95-5fc0-469b-ad55-8bf756c43ec9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.7453 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SD_SCK"
 		(shape input)
 		(at 35.56 170.18 180)
@@ -4481,6 +4561,30 @@
 			)
 		)
 	)
+	(global_label "I2C_SDA"
+		(shape input)
+		(at 35.56 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c6c327ef-2396-4799-9962-c0aa87441aa7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.9548 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SD_SCK"
 		(shape input)
 		(at 182.88 111.76 180)
@@ -4531,7 +4635,7 @@
 	)
 	(global_label "CAN_RX"
 		(shape input)
-		(at 146.05 167.64 0)
+		(at 146.05 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4541,7 +4645,7 @@
 		)
 		(uuid "e6bf128d-c093-4771-82bb-8352f7642d8b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.1714 167.64 0)
+			(at 156.1714 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4699,7 +4803,7 @@
 	)
 	(global_label "CAN_TX"
 		(shape input)
-		(at 146.05 171.45 0)
+		(at 146.05 161.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4709,7 +4813,7 @@
 		)
 		(uuid "fa6fe5da-7e9d-42df-a1cb-c2600aa7ad0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 155.869 171.45 0)
+			(at 155.869 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4718,6 +4822,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "I2C_SCLK"
+		(shape input)
+		(at 182.88 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ffa014c5-9103-4666-85db-c65a4c0f1656")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.0653 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -7527,7 +7655,7 @@
 		)
 	)
 	(sheet
-		(at 101.6 162.56)
+		(at 101.6 152.4)
 		(size 38.1 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7543,7 +7671,7 @@
 		)
 		(uuid "6340c095-cbe0-44fc-b5b2-467dba768b3c")
 		(property "Sheetname" "CAN Transceiver"
-			(at 101.6 161.8484 0)
+			(at 101.6 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7554,7 +7682,7 @@
 			)
 		)
 		(property "Sheetfile" "can_controller.kicad_sch"
-			(at 101.6 177.1146 0)
+			(at 101.6 166.9546 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7566,7 +7694,7 @@
 			)
 		)
 		(pin "CAN_RX" input
-			(at 139.7 167.64 0)
+			(at 139.7 157.48 0)
 			(uuid "72eb2030-170e-49dc-b71e-d09b3bd992df")
 			(effects
 				(font
@@ -7576,7 +7704,7 @@
 			)
 		)
 		(pin "CAN_TX" input
-			(at 139.7 171.45 0)
+			(at 139.7 161.29 0)
 			(uuid "828b13e8-2b58-4b54-8bf5-ed1bf807f481")
 			(effects
 				(font
@@ -7594,7 +7722,7 @@
 		)
 	)
 	(sheet
-		(at 19.05 186.69)
+		(at 69.85 182.88)
 		(size 38.1 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7610,7 +7738,7 @@
 		)
 		(uuid "93f148b6-3f36-473c-803f-ba09570a6cb9")
 		(property "Sheetname" "Design Notes"
-			(at 19.05 185.9784 0)
+			(at 69.85 182.1684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7621,7 +7749,7 @@
 			)
 		)
 		(property "Sheetfile" "design_notes.kicad_sch"
-			(at 19.05 194.8946 0)
+			(at 69.85 191.0846 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7642,7 +7770,7 @@
 	)
 	(sheet
 		(at 41.91 143.51)
-		(size 38.1 29.21)
+		(size 38.1 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7668,7 +7796,7 @@
 			)
 		)
 		(property "Sheetfile" "GPIOs.kicad_sch"
-			(at 41.91 173.3046 0)
+			(at 41.91 174.5746 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7789,6 +7917,26 @@
 				(justify left)
 			)
 		)
+		(pin "I2C_SCLK" input
+			(at 41.91 154.94 180)
+			(uuid "cde69b84-fc06-4a52-9735-94cda1e84afa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 41.91 151.13 180)
+			(uuid "76385e97-fdb6-4d9f-896b-f4bc9d690b16")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
@@ -7862,53 +8010,6 @@
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 101.6 142.24)
-		(size 38.1 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "f6cd643f-5adb-445a-a1b2-fca4b3835484")
-		(property "Sheetname" "Sensors"
-			(at 101.6 141.5284 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "sensors.kicad_sch"
-			(at 101.6 158.0646 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "owl_v1"
-				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
-					(page "5")
 				)
 			)
 		)

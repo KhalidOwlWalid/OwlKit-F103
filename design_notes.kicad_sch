@@ -5,4 +5,15 @@
 	(uuid "04ec450d-92bd-4c10-bc2e-dc748410ed05")
 	(paper "A4")
 	(lib_symbols)
+	(text "TODO:\n- Integrate external power input other than USB power\n- GPIO breakout\n- LED where necessary?\n- I2C breakout"
+		(exclude_from_sim no)
+		(at 16.51 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b64c8644-9826-4d3a-af2f-e13fdceb443c")
+	)
 )

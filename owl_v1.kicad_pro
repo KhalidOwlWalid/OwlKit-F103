@@ -665,7 +665,7 @@
         "uuid": "c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-26,C1-15,D1,FB1,J1-4,JP1,P1-2,R1-7,SW1,TP1-3,U1-4,Y1-2",
+    "used_designators": "#FLG1-3,#PWR1-30,C1-16,D1,FB1,J1-4,JP1,L1,P1-2,R1-7,SW1,TP1-3,U1-4,Y1-2",
     "variants": []
   },
   "sheets": [
@@ -692,6 +692,10 @@
     [
       "6340c095-cbe0-44fc-b5b2-467dba768b3c",
       "CAN Transceiver"
+    ],
+    [
+      "93f148b6-3f36-473c-803f-ba09570a6cb9",
+      "Design Notes"
     ]
   ],
   "text_variables": {},

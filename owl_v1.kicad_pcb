@@ -151,7 +151,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/198ad6eb-dcb8-40c7-bb56-1e57a929dbb7")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -309,7 +309,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/1419f683-d959-4d3a-a852-52f7e24d237e")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -386,7 +386,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/LED_BLUE")
+			(net "/owl_v1/Power Regulation/LED_BLUE")
 			(pintype "passive")
 			(uuid "7a2ab335-c43b-4f2b-a973-155dc398cb95")
 		)
@@ -467,7 +467,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/67fc17eb-bb1b-4a06-b758-deaecbe70564")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -1137,7 +1137,7 @@
 		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/b1738b2d-6e33-4bf1-8461-45a37440a40c")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -1922,7 +1922,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/f46fc104-b6f3-4253-9faa-9aacedd4b93d")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -2093,7 +2093,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/8c07e251-faa6-4fbe-a95b-5663558ec19d")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -2161,7 +2161,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D+")
+			(net "/owl_v1/Power Regulation/USB_OUT_D+")
 			(pintype "passive")
 			(uuid "cb3cacc2-9324-41d6-9625-6c875de1c0be")
 		)
@@ -2251,7 +2251,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/6258077e-7d73-4b2c-9f7e-e9407e37c133")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -2409,7 +2409,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/f8e905e0-ffa8-4a79-bf8d-2bb8731b1e0c")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -2672,7 +2672,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0c024c33-76d0-4cea-b0bb-1f95fa097a7d")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -2830,7 +2830,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ed6d3a89-5ef7-4dc3-a6ae-76e489d700b3")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -2988,7 +2988,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/1ed1430a-59b4-403e-9785-2900a117d51d")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -3146,7 +3146,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/7f6feacb-035c-4d32-bc0a-917ad896e25a")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit
@@ -3474,7 +3474,7 @@
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/d9e21ddf-a884-409b-b961-77f43f30f476")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -3625,7 +3625,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/fad9ab4b-5122-4eae-af51-3df86aae4de0")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -3796,7 +3796,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/383df4a5-ed63-4490-a13b-2de02cc5b1b7")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -3954,7 +3954,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/ee21e5e3-b3c3-4ffd-85d1-cd016bb05524")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -4112,7 +4112,7 @@
 		)
 		(property ki_fp_filters "SSOP*3.9x4.9mm?P0.635mm*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/bf2f191f-66c2-4131-88f1-f9c77f0388f7")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -4304,7 +4304,7 @@
 			(size 1.65 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB to UART Bridge/FT230_TXD")
+			(net "/owl_v1/USB to UART Bridge/FT230_TXD")
 			(pinfunction "TXD_1")
 			(pintype "output")
 			(uuid "bfca7961-ae84-4007-9e1d-07820755aca5")
@@ -4334,7 +4334,7 @@
 			(size 1.65 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB to UART Bridge/FT230_RXD")
+			(net "/owl_v1/USB to UART Bridge/FT230_RXD")
 			(pinfunction "RXD_4")
 			(pintype "input")
 			(uuid "210f821f-da0e-47de-973a-98c5451a06b9")
@@ -4530,7 +4530,7 @@
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/717d670a-df12-4f10-9e30-60f52edec666")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -4667,7 +4667,7 @@
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D+")
+			(net "/owl_v1/Power Regulation/USB_OUT_D+")
 			(pinfunction "D+_A6")
 			(pintype "bidirectional")
 			(uuid "190b82f4-9456-42c7-a596-33e2e6f0a447")
@@ -4677,7 +4677,7 @@
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D-")
+			(net "/owl_v1/Power Regulation/USB_OUT_D-")
 			(pinfunction "D-_A7")
 			(pintype "bidirectional")
 			(uuid "9d00faf1-538e-4438-8265-22dd4070d87d")
@@ -4747,7 +4747,7 @@
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D+")
+			(net "/owl_v1/Power Regulation/USB_OUT_D+")
 			(pinfunction "D+_B6")
 			(pintype "bidirectional")
 			(uuid "d910499e-c725-40b2-b22d-ee39c8b440fa")
@@ -4757,7 +4757,7 @@
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D-")
+			(net "/owl_v1/Power Regulation/USB_OUT_D-")
 			(pinfunction "D-_B7")
 			(pintype "bidirectional")
 			(uuid "c27d9836-1e28-4e7e-ad89-a1093ef3d6d7")
@@ -4917,7 +4917,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1107bc1f-b9c1-4e09-904e-a6e165bdb579")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -5075,7 +5075,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/1f40fb2e-aa6e-41d2-beef-30df2dd3c228")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -5143,7 +5143,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D-")
+			(net "/owl_v1/Power Regulation/USB_OUT_D-")
 			(pintype "passive")
 			(uuid "6e8d8700-13a2-48c3-b736-c964d26fa26a")
 		)
@@ -5233,7 +5233,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/251e34ea-ef29-433c-aad1-1847b0dc395c")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit
@@ -5301,7 +5301,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/CAN Transceiver/CAN_H")
+			(net "/owl_v1/CAN Transceiver/CAN_H")
 			(pintype "passive")
 			(uuid "3c11972c-bbb5-42b4-a988-912e74462f39")
 		)
@@ -5391,7 +5391,7 @@
 		)
 		(property ki_fp_filters "SOT?23?3*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/5836c224-dc38-4dfa-954a-2ad38ad2ddde")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -5930,7 +5930,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/22b31520-56e2-43b5-9611-b799e9d8cb47")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -6087,7 +6087,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/2f7c1fa3-aae8-4442-b8d3-12dad0708074")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -6613,7 +6613,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/b9a9597c-ae9b-446a-a182-103a6cd03f69")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -7212,7 +7212,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/44caf52f-c11e-4c6e-b00f-a074961aff23")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -7621,7 +7621,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/8dcdc028-993b-462b-8949-ae7e57150ec6")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit
@@ -7905,7 +7905,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.104167)
-			(net "/CAN Transceiver/CAN_H")
+			(net "/owl_v1/CAN Transceiver/CAN_H")
 			(pinfunction "Pin_1_1")
 			(pintype "passive")
 			(uuid "34fd4742-3093-498e-80e5-28df5ccb7a94")
@@ -7916,7 +7916,7 @@
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/CAN Transceiver/CAN_L")
+			(net "/owl_v1/CAN Transceiver/CAN_L")
 			(pinfunction "Pin_2_2")
 			(pintype "passive")
 			(uuid "b65d512f-c7c1-4ec2-8de1-e2ec7b0d13c3")
@@ -7934,6 +7934,368 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical"
+		(layer "F.Cu")
+		(uuid "952e202e-5bff-4e0e-a09b-900ee881bd9c")
+		(at 185.295 121.805)
+		(descr "Through hole straight pin header, 1x13, 2.54mm pitch, single row")
+		(tags "Through hole pin header THT 1x13 2.54mm single row")
+		(property "Reference" "J8"
+			(at 0 -2.38 0)
+			(layer "F.SilkS")
+			(uuid "c0910882-190b-46d5-ad95-548d7d168804")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "External GPIOs"
+			(at 0 32.86 0)
+			(layer "F.Fab")
+			(uuid "dea64164-972f-4e45-b332-a45d13d52180")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bd2f441-1663-4f6a-97bf-9f59b4efb03d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x13, script generated"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1d0c5be-3f6c-471a-a211-12a003fa4184")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "137b7967-5962-49b9-9aa8-5cf903eec92f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/117e1d25-807c-41a5-9e6e-5318815a3457")
+		(sheetname "/owl_v1/IOs/")
+		(sheetfile "GPIOs.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -1.38 -1.38)
+			(end 0 -1.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "58e5c12b-8c7a-41d5-adae-4e838c216b1e")
+		)
+		(fp_line
+			(start -1.38 0)
+			(end -1.38 -1.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b7617db3-ba63-4b12-afdc-ccfbd69b5203")
+		)
+		(fp_line
+			(start -1.38 1.27)
+			(end -1.38 31.86)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4a60dea4-2788-4dff-9f9e-17b2348279cf")
+		)
+		(fp_line
+			(start -1.38 1.27)
+			(end 1.38 1.27)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2af242c2-4247-406e-904d-963041567b7c")
+		)
+		(fp_line
+			(start -1.38 31.86)
+			(end 1.38 31.86)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "58efa01c-3b16-4b96-8760-61f22ceb1c33")
+		)
+		(fp_line
+			(start 1.38 1.27)
+			(end 1.38 31.86)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f8a1e504-1e45-4a59-82fc-e8a452a8ba26")
+		)
+		(fp_rect
+			(start -1.77 -1.78)
+			(end 1.77 32.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "f41e82cf-a741-46ba-9e3f-75b8b83c2dc9")
+		)
+		(fp_line
+			(start -1.27 -0.635)
+			(end -0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3fd7e7e5-a598-4673-8b61-c2705679f406")
+		)
+		(fp_line
+			(start -1.27 31.75)
+			(end -1.27 -0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "afb94725-125c-41a4-a372-6f4a529a525e")
+		)
+		(fp_line
+			(start -0.635 -1.27)
+			(end 1.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2769397f-c7ad-4cb2-8ce3-5f3790238789")
+		)
+		(fp_line
+			(start 1.27 -1.27)
+			(end 1.27 31.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e79000aa-8dc8-4514-a532-d967e1c4251c")
+		)
+		(fp_line
+			(start 1.27 31.75)
+			(end -1.27 31.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d08c57d5-8bdf-4689-a04e-9fa34e00ccd7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 15.24 90)
+			(layer "F.Fab")
+			(uuid "5ff4efb7-5bff-4cec-96b0-42722ae77f17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_0")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "28344638-cd26-4f07-9993-2d826183238f")
+		)
+		(pad "2" thru_hole circle
+			(at 0 2.54)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_1")
+			(pinfunction "Pin_2_2")
+			(pintype "passive")
+			(uuid "352d6114-605e-4cf9-8c2b-ec11c37358e3")
+		)
+		(pad "3" thru_hole circle
+			(at 0 5.08)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_2")
+			(pinfunction "Pin_3_3")
+			(pintype "passive")
+			(uuid "73180198-4a30-4a16-82af-68a5498120d9")
+		)
+		(pad "4" thru_hole circle
+			(at 0 7.62)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_3")
+			(pinfunction "Pin_4_4")
+			(pintype "passive")
+			(uuid "f1b55e94-feb4-4d02-8eb4-b6cd2bfc4cc9")
+		)
+		(pad "5" thru_hole circle
+			(at 0 10.16)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_4")
+			(pinfunction "Pin_5_5")
+			(pintype "passive")
+			(uuid "09c6f757-59bf-4429-9186-c1b718c333ef")
+		)
+		(pad "6" thru_hole circle
+			(at 0 12.7)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_5")
+			(pinfunction "Pin_6_6")
+			(pintype "passive")
+			(uuid "1cde9ccc-dd04-4f68-a316-fd27914669e7")
+		)
+		(pad "7" thru_hole circle
+			(at 0 15.24)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_6")
+			(pinfunction "Pin_7_7")
+			(pintype "passive")
+			(uuid "f6afedb8-a207-4418-9870-fbe7587fc7ce")
+		)
+		(pad "8" thru_hole circle
+			(at 0 17.78)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_7")
+			(pinfunction "Pin_8_8")
+			(pintype "passive")
+			(uuid "f619634b-4731-4f79-a419-edfac5d963b5")
+		)
+		(pad "9" thru_hole circle
+			(at 0 20.32)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_8")
+			(pinfunction "Pin_9_9")
+			(pintype "passive")
+			(uuid "54ef7584-5d2f-4b9f-b13f-d5937f68b7ca")
+		)
+		(pad "10" thru_hole circle
+			(at 0 22.86)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_9")
+			(pinfunction "Pin_10_10")
+			(pintype "passive")
+			(uuid "93975437-48cc-4a75-9dd0-4877e7bc5802")
+		)
+		(pad "11" thru_hole circle
+			(at 0 25.4)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_10")
+			(pinfunction "Pin_11_11")
+			(pintype "passive")
+			(uuid "c66a75b5-b57d-4f11-be72-952b99b62889")
+		)
+		(pad "12" thru_hole circle
+			(at 0 27.94)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_11")
+			(pinfunction "Pin_12_12")
+			(pintype "passive")
+			(uuid "33ddd35a-7d4c-4585-a4af-e0288903bf77")
+		)
+		(pad "13" thru_hole circle
+			(at 0 30.48)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GPIO_12")
+			(pinfunction "Pin_13_13")
+			(pintype "passive")
+			(uuid "edea9fb3-318d-418c-868e-b52c7f45564f")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x13_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8607,7 +8969,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/a9549bfe-52ee-4057-b25b-a7a0c4fe5a1d")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -8765,7 +9127,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/c6edd0bd-ddc4-42fb-af8f-72b2f722a34b")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -8923,7 +9285,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/58b3bbad-174c-45cd-8abd-8833ad093ca9")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -9081,7 +9443,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/26161faa-5024-42bc-b991-8d34d21210a5")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -9239,7 +9601,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/7757a9d5-9df0-44be-b4f9-97c0cf4e33e2")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -9307,7 +9669,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D+")
+			(net "/owl_v1/Power Regulation/USB_OUT_D+")
 			(pintype "passive")
 			(uuid "01e165b3-abf8-4de1-84e4-4b59f9596c13")
 		)
@@ -9935,7 +10297,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/f91e2ceb-d435-4b90-8404-5cdf41313d93")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -10093,7 +10455,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/ef6b5925-beca-4952-bd3a-59d0fa445d60")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit
@@ -10373,7 +10735,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/CAN Transceiver/CAN_L")
+			(net "/owl_v1/CAN Transceiver/CAN_L")
 			(pinfunction "CANL_6")
 			(pintype "bidirectional")
 			(uuid "755bac6f-7b35-4973-97de-c6f6e334a98d")
@@ -10383,7 +10745,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/CAN Transceiver/CAN_H")
+			(net "/owl_v1/CAN Transceiver/CAN_H")
 			(pinfunction "CANH_7")
 			(pintype "bidirectional")
 			(uuid "24317135-c884-45dc-8a4d-c809a026e537")
@@ -10475,7 +10837,7 @@
 		)
 		(property ki_fp_filters "LQFP*7x7mm*P0.5mm*")
 		(path "/d84fe1b9-643e-42e6-ae8e-c3108641bd44")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -10819,9 +11181,9 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PC13-Pad2)")
+			(net "GPIO_8")
 			(pinfunction "PC13_2")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "510fb0a4-7167-4994-ab75-87d922f163da")
 		)
 		(pad "3" smd roundrect
@@ -10979,9 +11341,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PB0-Pad18)")
+			(net "GPIO_9")
 			(pinfunction "PB0_18")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "d8d0f047-6006-438e-b533-2b33df4c7bf3")
 		)
 		(pad "19" smd roundrect
@@ -10989,9 +11351,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PB1-Pad19)")
+			(net "GPIO_10")
 			(pinfunction "PB1_19")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "db60a376-078c-44e7-8010-80b85c32acc1")
 		)
 		(pad "20" smd roundrect
@@ -10999,9 +11361,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PB2-Pad20)")
+			(net "GPIO_11")
 			(pinfunction "PB2_20")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "39ab1321-c7eb-4032-9998-6ceb88940b6b")
 		)
 		(pad "21" smd roundrect
@@ -11089,7 +11451,7 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PA8-Pad29)")
+			(net "GPIO_4")
 			(pinfunction "PA8_29")
 			(pintype "bidirectional")
 			(uuid "72d05b2d-e2e6-4d1a-8e29-733659819972")
@@ -11099,7 +11461,7 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB to UART Bridge/FT230_RXD")
+			(net "/owl_v1/USB to UART Bridge/FT230_RXD")
 			(pinfunction "PA9_30")
 			(pintype "bidirectional")
 			(uuid "1587c43a-e7bd-4bbd-97ee-94ac082db81b")
@@ -11109,7 +11471,7 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB to UART Bridge/FT230_TXD")
+			(net "/owl_v1/USB to UART Bridge/FT230_TXD")
 			(pinfunction "PA10_31")
 			(pintype "bidirectional")
 			(uuid "15b9abda-2080-4bdd-a2c8-e1906b5c9e61")
@@ -11119,7 +11481,7 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PA11-Pad32)")
+			(net "GPIO_5")
 			(pinfunction "PA11_32")
 			(pintype "bidirectional")
 			(uuid "6b57f526-b36a-4b4f-bfc9-7884d08b97bf")
@@ -11129,7 +11491,7 @@
 			(size 1.475 0.3)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PA12-Pad33)")
+			(net "GPIO_6")
 			(pinfunction "PA12_33")
 			(pintype "bidirectional")
 			(uuid "f7bc8373-3dac-4115-b73d-fd5a500daf68")
@@ -11179,9 +11541,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PA15-Pad38)")
+			(net "GPIO_7")
 			(pinfunction "PA15_38")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "954b7776-69e8-470f-944c-1660d1caaa33")
 		)
 		(pad "39" smd roundrect
@@ -11199,9 +11561,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PB4-Pad40)")
+			(net "GPIO_12")
 			(pinfunction "PB4_40")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "b1bc5fc5-f0e4-43f4-8f05-0f66130edaff")
 		)
 		(pad "41" smd roundrect
@@ -11209,9 +11571,9 @@
 			(size 0.3 1.475)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(U1-PB5-Pad41)")
+			(net "GPIO_13")
 			(pinfunction "PB5_41")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "a27754c4-828a-473d-a97f-bb8526fb3c0b")
 		)
 		(pad "42" smd roundrect
@@ -11361,7 +11723,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/1d4ac548-c0f0-48b7-b733-ce83170c2d99")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -11519,7 +11881,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/63daad30-39d1-4b7e-ad80-5732140599e1")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -11677,7 +12039,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/d41b0788-958f-4cec-9cc3-a1d5160274de")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -11835,7 +12197,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/acbabb50-7219-4bdc-bea7-3865f32f260e")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -11993,7 +12355,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0957bdde-5401-4edd-b240-649dc422b307/070beb90-baaa-48d4-a0c9-9e029520d59d")
-		(sheetname "/USB to UART Bridge/")
+		(sheetname "/owl_v1/USB to UART Bridge/")
 		(sheetfile "usb_to_uart.kicad_sch")
 		(units
 			(unit
@@ -12061,7 +12423,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/USB_OUT_D-")
+			(net "/owl_v1/Power Regulation/USB_OUT_D-")
 			(pintype "passive")
 			(uuid "dd1c5dfe-fccf-4346-91ef-41c1960475ca")
 		)
@@ -12372,7 +12734,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/3a826f2c-2062-42ed-9d9a-173365fed7fa")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -12530,7 +12892,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/9d248b1f-5572-4427-b3df-ff828b227ee2")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -12688,7 +13050,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/f90d7ec5-eb79-42a9-978b-5b4a9e3effe6")
-		(sheetname "/")
+		(sheetname "/owl_v1/")
 		(sheetfile "owl_v1.kicad_sch")
 		(units
 			(unit
@@ -12846,7 +13208,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/78dcff12-5c11-440e-b6a2-0a62386fe70c")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -12923,7 +13285,7 @@
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "/USB Power Regulator/LED_GREEN")
+			(net "/owl_v1/Power Regulation/LED_GREEN")
 			(pintype "passive")
 			(uuid "a5cfe383-3381-47a0-b3ff-457ad563d0fa")
 		)
@@ -13277,7 +13639,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/71ee0490-ad9d-4002-ad8f-f901e1323f9b")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -13435,7 +13797,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/e3adba7a-3101-478d-ba36-f427fbae9335")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -13593,7 +13955,7 @@
 		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/901d56c9-1499-4835-91c2-9cfe8f3e1d04")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit
@@ -13752,7 +14114,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/CAN Transceiver/CAN_L")
+			(net "/owl_v1/CAN Transceiver/CAN_L")
 			(pinfunction "B_2")
 			(pintype "passive")
 			(uuid "1aae3acb-5c15-4020-b386-ec010fc76acf")
@@ -13826,7 +14188,7 @@
 		)
 		(property ki_fp_filters "microSD*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/d204258c-fa40-4139-85fd-a25745b24e2f")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -14648,7 +15010,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/ea5d8728-00f8-428c-b241-4d5d58a19c39/17f505f8-39a1-402e-a427-895913fbf7a3")
-		(sheetname "/USB Power Regulator/")
+		(sheetname "/owl_v1/Power Regulation/")
 		(sheetfile "usb_power_regulator.kicad_sch")
 		(units
 			(unit
@@ -14806,7 +15168,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d52cdafd-bcb4-4a55-a779-8e3cd50df227/0e5c88fd-413b-4d58-8317-98b7652e042a")
-		(sheetname "/IOs/")
+		(sheetname "/owl_v1/IOs/")
 		(sheetfile "GPIOs.kicad_sch")
 		(units
 			(unit
@@ -14964,7 +15326,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/6340c095-cbe0-44fc-b5b2-467dba768b3c/fb103f54-1e60-40eb-9799-beff9d12303a")
-		(sheetname "/CAN Transceiver/")
+		(sheetname "/owl_v1/CAN Transceiver/")
 		(sheetfile "can_controller.kicad_sch")
 		(units
 			(unit

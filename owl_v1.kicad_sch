@@ -2735,7 +2735,7 @@
 	)
 	(text "'Light' low-pass filter for analog VDD\n  (Taken from Phil's lab SimpleTM32)"
 		(exclude_from_sim no)
-		(at 259.334 44.704 0)
+		(at 254.254 48.514 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2804,13 +2804,13 @@
 		(uuid "69700bd3-7ecd-40ef-90a9-f3986311335a")
 	)
 	(junction
-		(at 259.08 27.94)
+		(at 254 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78a2ae47-50bf-4c1c-bb62-4570f1692e10")
 	)
 	(junction
-		(at 267.97 27.94)
+		(at 262.89 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97df872d-edd0-4ac5-bfdc-e3b36570679d")
@@ -2840,7 +2840,7 @@
 		(uuid "b0d81cc2-70c8-464b-a7f0-7b2875cccf2a")
 	)
 	(junction
-		(at 259.08 35.56)
+		(at 254 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be60e9e9-38b7-4620-90c9-ef1db725b3d8")
@@ -2913,16 +2913,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 194.31) (xy 119.38 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04fa7987-d711-495c-93ce-e87a7f59a41b")
-	)
-	(wire
-		(pts
 			(xy 113.03 179.07) (xy 119.38 179.07)
 		)
 		(stroke
@@ -2953,7 +2943,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 29.21) (xy 259.08 27.94)
+			(xy 254 33.02) (xy 254 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2973,7 +2963,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 35.56) (xy 267.97 34.29)
+			(xy 262.89 39.37) (xy 262.89 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3093,7 +3083,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 27.94) (xy 259.08 27.94)
+			(xy 262.89 31.75) (xy 254 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3113,7 +3103,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 26.67) (xy 267.97 27.94)
+			(xy 262.89 30.48) (xy 262.89 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3193,6 +3183,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 105.41) (xy 242.57 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f857114-0fb0-4394-879b-cb216f51b671")
+	)
+	(wire
+		(pts
 			(xy 203.2 124.46) (xy 203.2 127)
 		)
 		(stroke
@@ -3233,7 +3233,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 27.94) (xy 250.19 27.94)
+			(xy 241.3 31.75) (xy 245.11 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3243,7 +3243,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 26.67) (xy 246.38 27.94)
+			(xy 241.3 30.48) (xy 241.3 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3343,7 +3343,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 35.56) (xy 267.97 35.56)
+			(xy 254 39.37) (xy 262.89 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3373,7 +3373,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 34.29) (xy 259.08 35.56)
+			(xy 254 38.1) (xy 254 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3553,7 +3553,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 27.94) (xy 259.08 27.94)
+			(xy 250.19 31.75) (xy 254 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3853,7 +3853,17 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 36.83) (xy 259.08 35.56)
+			(xy 237.49 107.95) (xy 242.57 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e3b81e-094b-4b2d-b1b4-39ccd79d5948")
+	)
+	(wire
+		(pts
+			(xy 254 40.64) (xy 254 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4153,7 +4163,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 29.21) (xy 267.97 27.94)
+			(xy 262.89 33.02) (xy 262.89 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4214,6 +4224,30 @@
 		(uuid "001c9363-2c56-4c55-89a6-bc215ac4f860")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 19.9353 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_BLUE"
+		(shape input)
+		(at 237.49 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0810d061-0bdd-4b72-83a2-d31911f4c98e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 225.3125 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4430,6 +4464,30 @@
 		(uuid "2e451a32-6e2b-4923-ba9e-a9b0b364c94b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 20.2377 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "LED_GREEN"
+		(shape input)
+		(at 237.49 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2ea36863-222e-491f-9148-12c75dd3c969")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.9216 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4838,30 +4896,6 @@
 		(uuid "60330a41-08fc-4a57-813f-fc77b192ec3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 128.2314 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "GPIO_12"
-		(shape input)
-		(at 119.38 194.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "62b58cd3-5eeb-4052-8662-2216ef026e06")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.2271 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5305,7 +5339,7 @@
 			)
 		)
 	)
-	(global_label "GPIO_13"
+	(global_label "LED_GREEN"
 		(shape input)
 		(at 182.88 91.44 180)
 		(fields_autoplaced yes)
@@ -5317,7 +5351,7 @@
 		)
 		(uuid "ba9bf3b1-f990-49f3-a791-4c5ef3db8384")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.0329 91.44 0)
+			(at 169.3116 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5329,7 +5363,7 @@
 			)
 		)
 	)
-	(global_label "GPIO_12"
+	(global_label "LED_BLUE"
 		(shape input)
 		(at 182.88 88.9 180)
 		(fields_autoplaced yes)
@@ -5341,7 +5375,7 @@
 		)
 		(uuid "bcc4cb69-8873-467f-9e29-83f16b6bcdf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.0329 88.9 0)
+			(at 170.7025 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5941,7 +5975,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 259.08 36.83 0)
+		(at 254 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5951,7 +5985,7 @@
 		(dnp no)
 		(uuid "0dfee52a-b069-4180-97a5-5c3aadff8c7d")
 		(property "Reference" "#PWR028"
-			(at 259.08 43.18 0)
+			(at 254 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5962,7 +5996,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 259.08 40.64 0)
+			(at 254 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5972,7 +6006,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 259.08 36.83 0)
+			(at 254 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5983,7 +6017,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 36.83 0)
+			(at 254 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5994,7 +6028,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 36.83 0)
+			(at 254 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6422,7 +6456,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 246.38 26.67 0)
+		(at 241.3 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6432,7 +6466,7 @@
 		(dnp no)
 		(uuid "2770f8f6-7b8d-4070-af4c-672259992ab4")
 		(property "Reference" "#PWR027"
-			(at 246.38 30.48 0)
+			(at 241.3 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6443,7 +6477,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 246.38 22.86 0)
+			(at 241.3 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6453,7 +6487,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 26.67 0)
+			(at 241.3 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6464,7 +6498,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 26.67 0)
+			(at 241.3 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6475,7 +6509,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 26.67 0)
+			(at 241.3 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6656,7 +6690,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 259.08 31.75 0)
+		(at 254 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6666,7 +6700,7 @@
 		(dnp no)
 		(uuid "383df4a5-ed63-4490-a13b-2de02cc5b1b7")
 		(property "Reference" "C14"
-			(at 261.4168 30.5816 0)
+			(at 256.3368 34.3916 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6677,7 +6711,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 261.4168 32.893 0)
+			(at 256.3368 36.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6688,7 +6722,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 259.08 31.75 0)
+			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6699,7 +6733,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 259.08 31.75 0)
+			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6710,7 +6744,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 31.75 0)
+			(at 254 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6720,7 +6754,7 @@
 			)
 		)
 		(property "LCSC Part #" "C52923"
-			(at 259.08 31.75 0)
+			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7462,7 +7496,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
-		(at 267.97 26.67 0)
+		(at 262.89 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7472,7 +7506,7 @@
 		(dnp no)
 		(uuid "b06bcf3a-a02c-4612-9aa8-99d8e3d931fb")
 		(property "Reference" "#PWR029"
-			(at 267.97 30.48 0)
+			(at 262.89 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7483,7 +7517,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 267.97 22.86 0)
+			(at 262.89 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7493,7 +7527,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 26.67 0)
+			(at 262.89 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7504,7 +7538,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 26.67 0)
+			(at 262.89 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7515,7 +7549,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 267.97 26.67 0)
+			(at 262.89 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8076,7 +8110,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 252.73 27.94 90)
+		(at 247.65 31.75 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8086,7 +8120,7 @@
 		(dnp no)
 		(uuid "d9e21ddf-a884-409b-b961-77f43f30f476")
 		(property "Reference" "L1"
-			(at 252.73 23.241 90)
+			(at 247.65 27.051 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8096,7 +8130,7 @@
 			)
 		)
 		(property "Value" "27n"
-			(at 252.73 25.5524 90)
+			(at 247.65 29.3624 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8106,7 +8140,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
-			(at 252.73 27.94 0)
+			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8117,7 +8151,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 252.73 27.94 0)
+			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8128,7 +8162,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 252.73 27.94 0)
+			(at 247.65 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8138,7 +8172,7 @@
 			)
 		)
 		(property "LCSC Part #" "C18830"
-			(at 252.73 27.94 0)
+			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8408,7 +8442,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 267.97 31.75 0)
+		(at 262.89 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8418,7 +8452,7 @@
 		(dnp no)
 		(uuid "fad9ab4b-5122-4eae-af51-3df86aae4de0")
 		(property "Reference" "C16"
-			(at 270.3068 30.5816 0)
+			(at 265.2268 34.3916 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8429,7 +8463,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 270.3068 32.893 0)
+			(at 265.2268 36.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8440,7 +8474,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 267.97 31.75 0)
+			(at 262.89 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8451,7 +8485,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 31.75 0)
+			(at 262.89 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8462,7 +8496,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 267.97 31.75 0)
+			(at 262.89 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8472,7 +8506,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
-			(at 267.97 31.75 0)
+			(at 262.89 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8685,6 +8719,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
@@ -8752,6 +8788,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
@@ -8951,16 +8989,6 @@
 		(pin "GPIO_11" input
 			(at 113.03 190.5 0)
 			(uuid "8eb25672-e30f-48f3-89d1-344cec91286d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "GPIO_12" input
-			(at 113.03 194.31 0)
-			(uuid "89ade6f9-5e7e-4d95-9627-cdcd1d298f07")
 			(effects
 				(font
 					(size 1.27 1.27)

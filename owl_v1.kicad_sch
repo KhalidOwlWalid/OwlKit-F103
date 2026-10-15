@@ -5914,7 +5914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 31.75 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6072,7 +6072,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25p"
+		(property "Value" "25pF"
 			(at 53.34 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6154,7 +6154,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 72.39 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6395,7 +6395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4p"
+		(property "Value" "4pF"
 			(at 40.64 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6710,7 +6710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 256.3368 36.703 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7037,7 +7037,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25p"
+		(property "Value" "25pF"
 			(at 40.64 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7119,7 +7119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 45.72 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7201,7 +7201,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 59.69 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8129,7 +8129,7 @@
 				)
 			)
 		)
-		(property "Value" "27n"
+		(property "Value" "27nH"
 			(at 247.65 29.3624 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8219,7 +8219,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100kR"
 			(at 172.72 46.736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8381,7 +8381,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4p"
+		(property "Value" "4pF"
 			(at 50.8 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8462,7 +8462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 265.2268 36.703 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8760,7 +8760,7 @@
 		(instances
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
-					(page "6")
+					(page "5")
 				)
 			)
 		)

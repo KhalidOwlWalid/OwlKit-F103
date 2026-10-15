@@ -5,7 +5,7 @@
 	(uuid "ee215b2b-8ecc-4b97-8393-6d835b3bde78")
 	(paper "A4")
 	(lib_symbols)
-	(text "TODO:\n- Integrate external power input other than USB power"
+	(text "TODO:\n- Integrate external power input other than USB power\n- LEDs where necessary?"
 		(exclude_from_sim no)
 		(at 16.764 41.148 0)
 		(effects
@@ -18,7 +18,7 @@
 	)
 	(sheet_instances
 		(path "/"
-			(page "5")
+			(page "6")
 		)
 	)
 )

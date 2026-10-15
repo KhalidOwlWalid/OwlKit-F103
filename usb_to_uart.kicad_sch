@@ -1471,7 +1471,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47p"
+		(property "Value" "47pF"
 			(at 111.506 98.298 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1868,7 +1868,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47p"
+		(property "Value" "47pF"
 			(at 121.92 98.552 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2030,7 +2030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 161.798 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)

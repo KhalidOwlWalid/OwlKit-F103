@@ -969,8 +969,8 @@
 		)
 	)
 	(rectangle
-		(start 120.65 63.5)
-		(end 154.94 69.85)
+		(start 134.112 51.816)
+		(end 179.832 62.738)
 		(stroke
 			(width 0)
 			(type default)
@@ -980,9 +980,19 @@
 		)
 		(uuid "0e0794d1-72e4-4732-90e3-8e2f8bf2faed")
 	)
+	(text "Please refer FT230X datasheet for more info"
+		(exclude_from_sim no)
+		(at 157.48 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "92f23a14-46a4-4c4f-b434-2d836e400a86")
+	)
 	(text "3V3OUT is an input pin since\nthe VCC for the FT230XS is 3.3V"
 		(exclude_from_sim no)
-		(at 137.922 66.802 0)
+		(at 156.972 55.118 0)
 		(effects
 			(font
 				(size 1.27 1.27)

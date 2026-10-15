@@ -663,9 +663,14 @@
         "filename": "owl_v1.kicad_sch",
         "name": "owl_v1",
         "uuid": "c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac"
+      },
+      {
+        "filename": "design_notes.kicad_sch",
+        "name": "Design Notes",
+        "uuid": "8484794c-51e1-4777-b362-d5de8b2e6adb"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-36,C1-18,D1,FB1,J1-6,JP1,L1,P1-2,R1-16,SW1,TP1-3,U1-4,Y1-2",
+    "used_designators": "#FLG1-3,#PWR1-39,C1-18,D1-3,FB1,J1-7,JP1,L1,P1-2,R1-18,SW1,TP1-3,U1-4,Y1-2",
     "variants": []
   },
   "sheets": [
@@ -686,12 +691,12 @@
       "IOs"
     ],
     [
-      "6340c095-cbe0-44fc-b5b2-467dba768b3c",
-      "CAN Transceiver"
+      "8484794c-51e1-4777-b362-d5de8b2e6adb",
+      "Design Notes"
     ],
     [
-      "93f148b6-3f36-473c-803f-ba09570a6cb9",
-      "Design Notes"
+      "6340c095-cbe0-44fc-b5b2-467dba768b3c",
+      "CAN Transceiver"
     ]
   ],
   "text_variables": {},

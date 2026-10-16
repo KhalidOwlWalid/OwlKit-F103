@@ -2801,7 +2801,7 @@
 		(at 46.99 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "69700bd3-7ecd-40ef-90a9-f3986311335a")
+		(uuid "5e58bad5-42fe-48b0-b778-2757e91ec2e5")
 	)
 	(junction
 		(at 254 31.75)
@@ -3383,6 +3383,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 63.5) (xy 48.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c8a71a1-3ba8-451d-9f4f-d559a44ce854")
+	)
+	(wire
+		(pts
 			(xy 113.03 167.64) (xy 119.38 167.64)
 		)
 		(stroke
@@ -3903,16 +3913,6 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 63.5) (xy 46.99 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9e7fa2f-f80f-46dd-84f0-e4398c5390f6")
-	)
-	(wire
-		(pts
 			(xy 182.88 104.14) (xy 185.42 104.14)
 		)
 		(stroke
@@ -3923,7 +3923,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 63.5) (xy 46.99 63.5)
+			(xy 45.72 63.5) (xy 46.99 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3970,6 +3970,16 @@
 			(type default)
 		)
 		(uuid "c7411907-415b-4a05-b0ab-5487c53232c0")
+	)
+	(wire
+		(pts
+			(xy 46.99 63.5) (xy 46.99 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7420050-cb12-416b-bf03-7c2ac390ca7b")
 	)
 	(wire
 		(pts
@@ -4090,16 +4100,6 @@
 			(type default)
 		)
 		(uuid "dca5f6d8-d3f7-4e1e-9225-df9ed586fb33")
-	)
-	(wire
-		(pts
-			(xy 45.72 63.5) (xy 46.99 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e21cac39-0216-43ac-939b-742783274104")
 	)
 	(wire
 		(pts
@@ -6721,7 +6721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7758,7 +7758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 165.1 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8139,7 +8139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8473,7 +8473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 262.89 35.56 0)
 			(hide yes)
 			(show_name no)

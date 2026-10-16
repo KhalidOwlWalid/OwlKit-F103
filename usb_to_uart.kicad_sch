@@ -2156,28 +2156,6 @@
 				)
 			)
 		)
-		(property private "KLC_S4.2_VCC" "This is not a power converter chip"
-			(at 157.48 125.73 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property private "KLC_S4.2_3V3OUT" "This is not a power converter chip"
-			(at 157.48 128.27 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "c8e270b7-b99b-4056-9626-dd784eaa07b6")
 		)

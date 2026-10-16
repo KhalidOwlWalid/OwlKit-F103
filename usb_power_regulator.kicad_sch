@@ -4149,7 +4149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -4306,7 +4306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 198.12 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4541,7 +4541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 86.36 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -5354,7 +5354,7 @@
 		(dnp no)
 		(uuid "71ee0490-ad9d-4002-ad8f-f901e1323f9b")
 		(property "Reference" "C5"
-			(at 163.83 87.6299 0)
+			(at 144.78 88.646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5365,7 +5365,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 163.83 90.1699 0)
+			(at 144.526 90.932 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

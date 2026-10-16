@@ -1281,16 +1281,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 105.41) (xy 181.61 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18f8579c-b12e-432a-bd64-edf14983cc14")
-	)
-	(wire
-		(pts
 			(xy 115.57 101.6) (xy 119.38 101.6)
 		)
 		(stroke
@@ -1301,43 +1291,23 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 96.52) (xy 186.69 96.52)
+			(xy 194.31 93.98) (xy 205.74 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3116b1f7-2c4b-4ee8-ace8-71546540ffca")
+		(uuid "2b7388ef-bb42-489a-bd06-32ceb1f9fd73")
 	)
 	(wire
 		(pts
-			(xy 184.15 99.06) (xy 184.15 96.52)
+			(xy 194.31 96.52) (xy 205.74 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "325f0fbc-9821-4209-80b1-4d49a5e9c694")
-	)
-	(wire
-		(pts
-			(xy 181.61 91.44) (xy 186.69 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cef44ce-cd52-4a72-86e0-eab9479de3cd")
-	)
-	(wire
-		(pts
-			(xy 181.61 93.98) (xy 186.69 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e8edab-d57e-45da-b992-f2dab75be106")
+		(uuid "3328fcbf-ca90-44bc-b126-bbc5ede1c0c8")
 	)
 	(wire
 		(pts
@@ -1378,6 +1348,16 @@
 			(type default)
 		)
 		(uuid "5fbae72c-20e0-4287-9576-79b7d918dc10")
+	)
+	(wire
+		(pts
+			(xy 203.2 91.44) (xy 205.74 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d625338-5619-4268-a018-cdfe34157f9e")
 	)
 	(wire
 		(pts
@@ -1489,16 +1469,6 @@
 		)
 		(uuid "e20292bb-f63e-4e96-928f-16c5c74641f6")
 	)
-	(wire
-		(pts
-			(xy 181.61 85.09) (xy 181.61 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb98fbef-8c4c-46c5-afed-9d4244e4480c")
-	)
 	(label "CAN_L"
 		(at 175.26 105.41 0)
 		(effects
@@ -1509,6 +1479,16 @@
 		)
 		(uuid "4f3b741c-d143-4e0d-96b9-6437d4667130")
 	)
+	(label "CAN_L"
+		(at 194.31 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "509e831e-f94a-4bb6-9bc7-b4699265df63")
+	)
 	(label "CAN_H"
 		(at 173.99 85.09 0)
 		(effects
@@ -1518,6 +1498,16 @@
 			(justify left bottom)
 		)
 		(uuid "802e1860-28fd-4bbd-b2f4-56bd6569e941")
+	)
+	(label "CAN_H"
+		(at 194.31 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fd52e6f6-ae3a-4569-867e-736183ace8ad")
 	)
 	(hierarchical_label "CAN_TX"
 		(shape input)
@@ -1696,84 +1686,6 @@
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 184.15 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26b04bce-4bde-4f5d-84da-9d5d8e4a3d64")
-		(property "Reference" "#PWR023"
-			(at 184.15 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 184.15 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "134c4f28-6be7-4c70-b685-011645ddb8f0")
-		)
-		(instances
-			(project "owl_v1"
-				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
-					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -2016,91 +1928,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 191.77 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8dcdc028-993b-462b-8949-ae7e57150ec6")
-		(property "Reference" "J3"
-			(at 194.31 92.7099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 194.31 95.2499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal"
-			(at 191.77 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1546551&DocType=Customer+Drawing&DocLang=English&PartCntxt=1546551-3&DocFormat=pdf"
-			(at 191.77 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x03, 1546551-3"
-			(at 191.77 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d57c6cd3-791b-4329-ae5a-e6d58d8fb22d")
-		)
-		(pin "1"
-			(uuid "4c0bebe3-c0f3-4586-871b-e5a324ad63c1")
-		)
-		(pin "3"
-			(uuid "027224b8-7606-4b75-a19e-c1212706520e")
-		)
-		(instances
-			(project "owl_v1"
-				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 163.83 100.33 270)
 		(unit 1)
@@ -2256,6 +2083,170 @@
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x03")
+		(at 210.82 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad9462a2-f1e3-4835-a65b-a53cf1fc80df")
+		(property "Reference" "J3"
+			(at 213.36 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x03"
+			(at 213.36 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal"
+			(at 210.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1546551&DocType=Customer+Drawing&DocLang=English&PartCntxt=1546551-3&DocFormat=pdf"
+			(at 210.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x03, 1546551-3"
+			(at 210.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "33eee529-5446-41a0-97a7-6b26b47f223a")
+		)
+		(pin "1"
+			(uuid "a3909cee-5d0e-48eb-ad41-84a2af7452a4")
+		)
+		(pin "3"
+			(uuid "bf4653b7-e869-43f0-b849-d86855df7287")
+		)
+		(instances
+			(project "owl_v1"
+				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 203.2 91.44 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be6b2ab2-3dcb-4d8b-b6a7-1c3ceb51fa05")
+		(property "Reference" "#PWR023"
+			(at 196.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 199.39 91.4399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 203.2 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 203.2 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4c4d1ce6-33a3-4558-9d1c-0d0c43741c1e")
+		)
+		(instances
+			(project "owl_v1"
+				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/6340c095-cbe0-44fc-b5b2-467dba768b3c"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)

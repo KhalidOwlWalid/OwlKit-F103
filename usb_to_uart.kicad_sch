@@ -980,6 +980,18 @@
 		)
 		(uuid "0e0794d1-72e4-4732-90e3-8e2f8bf2faed")
 	)
+	(rectangle
+		(start 21.59 85.09)
+		(end 97.79 104.14)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e00c9461-075a-43c8-88b8-25b5ec81dd4f")
+	)
 	(text "Please refer FT230X datasheet for more info"
 		(exclude_from_sim no)
 		(at 157.48 59.69 0)
@@ -999,6 +1011,27 @@
 			)
 		)
 		(uuid "b002add6-7678-4e07-8ab0-226354744e77")
+	)
+	(text "FT230X Datasheet"
+		(exclude_from_sim no)
+		(at 56.388 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(href "https://www.farnell.com/datasheets/4499129.pdf")
+		)
+		(uuid "b2df9c03-77f2-4543-a6d9-2834f224cb40")
+	)
+	(text "It is worth noting that the FT230X functions as a full speed USB 2.0\ndevice (12Mb/s) as opposed to High Speed device (480Mb/s). Hence, it is\nnot as important to match USB 2.0 impedance for the differential pairs.\nAlthough, it does not hurt to do so.\n\nSource: FT230X Datasheet, p. 29, Sec. 8.1, see USB Version description"
+		(exclude_from_sim no)
+		(at 59.436 92.456 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f9ee1db5-db00-47a5-b543-992e1efec44c")
 	)
 	(junction
 		(at 128.27 91.44)
@@ -2211,6 +2244,12 @@
 					(unit 1)
 				)
 			)
+		)
+	)
+	(group ""
+		(uuid "9eab09ef-aa09-47f2-ac97-9a696be64aa3")
+		(members "b2df9c03-77f2-4543-a6d9-2834f224cb40" "e00c9461-075a-43c8-88b8-25b5ec81dd4f"
+			"f9ee1db5-db00-47a5-b543-992e1efec44c"
 		)
 	)
 )

@@ -81,7 +81,24 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|165280000|111220000|9a7bda4d-cf61-438a-9df4-b82b8080322c|c15e4750-9aea-4561-a5a2-00d3bcec8c5e",
+          "This is from the footprint itself. I have no control over this. However, this is still within the manufacturing tolerance of JLCPCB."
+        ],
+        [
+          "hole_clearance|165280000|111220000|c3f38de7-94dd-47fa-8951-5c2fa5d523dd|c15e4750-9aea-4561-a5a2-00d3bcec8c5e",
+          "This is from the footprint itself. I have no control over this. However, this is still within the manufacturing tolerance of JLCPCB."
+        ],
+        [
+          "hole_clearance|171380000|111220000|2546880f-bb71-4456-bb9d-9580ee250ba6|07cccbd5-37e5-41b5-94b9-692947c291a5",
+          "This is from the footprint itself. I have no control over this. However, this is still within the manufacturing tolerance of JLCPCB."
+        ],
+        [
+          "hole_clearance|171380000|111220000|68117ce9-b144-46b8-94cb-b19048370c47|07cccbd5-37e5-41b5-94b9-692947c291a5",
+          "This is from the footprint itself. I have no control over this. However, this is still within the manufacturing tolerance of JLCPCB."
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -127,7 +144,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",

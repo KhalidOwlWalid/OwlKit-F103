@@ -1184,7 +1184,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:Conn_01x12_Pin"
+		(symbol "Connector:Conn_01x11_Pin"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1204,8 +1204,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x12_Pin"
-				(at 0 -17.78 0)
+			(property "Value" "Conn_01x11_Pin"
+				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1236,7 +1236,7 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x12, script generated"
+			(property "Description" "Generic connector, single row, 01x11, script generated"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1279,7 +1279,7 @@
 					)
 				)
 			)
-			(symbol "Conn_01x12_Pin_1_1"
+			(symbol "Conn_01x11_Pin_1_1"
 				(rectangle
 					(start 0.8636 12.827)
 					(end 0 12.573)
@@ -1393,17 +1393,6 @@
 				(rectangle
 					(start 0.8636 -12.573)
 					(end 0 -12.827)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -15.113)
-					(end 0 -15.367)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -1535,18 +1524,6 @@
 				(polyline
 					(pts
 						(xy 1.27 -12.7) (xy 0.8636 -12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -15.24) (xy 0.8636 -15.24)
 					)
 					(stroke
 						(width 0.1524)
@@ -1747,24 +1724,6 @@
 						)
 					)
 					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -15.24 180)
-					(length 3.81)
-					(name "Pin_12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3198,16 +3157,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 179.07) (xy 39.37 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b169c33-8a3c-4e29-949d-342bb3a8cc08")
-	)
-	(wire
-		(pts
 			(xy 29.21 54.61) (xy 38.1 54.61)
 		)
 		(stroke
@@ -3722,17 +3671,6 @@
 		)
 		(uuid "52c2abe7-6399-4091-8797-3dca8fd3a908")
 	)
-	(hierarchical_label "GPIO_11"
-		(shape input)
-		(at 39.37 179.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "563c58d6-d7ea-46f9-86ce-f9bb46feec90")
-	)
 	(hierarchical_label "GPIO_7"
 		(shape input)
 		(at 39.37 168.91 0)
@@ -4191,7 +4129,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x12_Pin")
+		(lib_id "Connector:Conn_01x11_Pin")
 		(at 22.86 163.83 0)
 		(unit 1)
 		(body_style 1)
@@ -4221,7 +4159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical"
 			(at 22.86 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -4243,7 +4181,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated"
+		(property "Description" "Generic connector, single row, 01x11, script generated"
 			(at 22.86 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -4274,9 +4212,6 @@
 		)
 		(pin "9"
 			(uuid "e1babc38-fcfe-42e3-b43c-a5a4a92bd871")
-		)
-		(pin "12"
-			(uuid "d3791164-2600-4183-b100-9479a0de1926")
 		)
 		(pin "5"
 			(uuid "85315940-4a25-4280-91f9-3377e1b53372")
@@ -5130,7 +5065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 51.7652 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -5538,7 +5473,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 24.13 31.75 0)
 			(hide yes)
 			(show_name no)

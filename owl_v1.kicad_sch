@@ -4180,16 +4180,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 190.5) (xy 91.44 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7ba4278-9c28-41d7-bca3-af1d044834e9")
-	)
-	(wire
-		(pts
 			(xy 182.88 104.14) (xy 185.42 104.14)
 		)
 		(stroke
@@ -4793,30 +4783,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "GPIO_11"
-		(shape input)
-		(at 91.44 190.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2ea5e4ff-48aa-4d36-8e26-d1d3f75a629c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.2871 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -7043,7 +7009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm"
 			(at 119.38 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -8008,7 +7974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 139.192 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -8243,7 +8209,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 140.0048 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -9025,7 +8991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.56 85.598 90)
 			(hide yes)
 			(show_name no)

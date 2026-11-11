@@ -9828,16 +9828,6 @@
 				(justify right)
 			)
 		)
-		(pin "GPIO_11" input
-			(at 85.09 190.5 0)
-			(uuid "8eb25672-e30f-48f3-89d1-344cec91286d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "GPIO_2" input
 			(at 43.18 182.88 180)
 			(uuid "319566a8-7723-40c5-bd74-2a736ddad102")

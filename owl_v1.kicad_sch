@@ -7009,7 +7009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 119.38 173.99 0)
 			(hide yes)
 			(show_name no)

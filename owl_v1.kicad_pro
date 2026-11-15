@@ -81,7 +81,32 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|165270000|113955000|9a7bda4d-cf61-438a-9df4-b82b8080322c|c15e4750-9aea-4561-a5a2-00d3bcec8c5e",
+          "It's the stock USB4105 USB-C land pattern, which JLCPCB builds all the time; the miss is\n  only 6 µm, and the hole is non-plated and sits next to a GND pad, so it can't cause a short."
+        ],
+        [
+          "hole_clearance|165270000|113955000|c3f38de7-94dd-47fa-8951-5c2fa5d523dd|c15e4750-9aea-4561-a5a2-00d3bcec8c5e",
+          "It's the stock USB4105 USB-C land pattern, which JLCPCB builds all the time; the miss is\n  only 6 µm, and the hole is non-plated and sits next to a GND pad, so it can't cause a short."
+        ],
+        [
+          "hole_clearance|171370000|113955000|2546880f-bb71-4456-bb9d-9580ee250ba6|07cccbd5-37e5-41b5-94b9-692947c291a5",
+          "It's the stock USB4105 USB-C land pattern, which JLCPCB builds all the time; the miss is\n  only 6 µm, and the hole is non-plated and sits next to a GND pad, so it can't cause a short."
+        ],
+        [
+          "hole_clearance|171370000|113955000|68117ce9-b144-46b8-94cb-b19048370c47|07cccbd5-37e5-41b5-94b9-692947c291a5",
+          "It's the stock USB4105 USB-C land pattern, which JLCPCB builds all the time; the miss is\n  only 6 µm, and the hole is non-plated and sits next to a GND pad, so it can't cause a short."
+        ],
+        [
+          "text_height|168900000|105300000|61556c09-9254-462e-9788-a6c24c4c3915|00000000-0000-0000-0000-000000000000",
+          "Intentional since I dont have much space"
+        ],
+        [
+          "text_height|170260000|101200000|5ba8bc37-2845-48d3-838e-1d6d34374101|00000000-0000-0000-0000-000000000000",
+          "Intentional as I don't have much space"
+        ]
+      ],
       "meta": {
         "version": 2
       },

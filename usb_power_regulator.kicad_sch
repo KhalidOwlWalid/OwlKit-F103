@@ -2822,7 +2822,7 @@
 		(uuid "9a2c7182-edac-48a6-8971-b7550dff13bc")
 	)
 	(rectangle
-		(start 116.84 62.23)
+		(start 115.57 62.23)
 		(end 208.28 129.54)
 		(stroke
 			(width 0)
@@ -3087,6 +3087,16 @@
 			(type default)
 		)
 		(uuid "112ec8e4-2478-4ed2-b8af-23f536e2a8d4")
+	)
+	(wire
+		(pts
+			(xy 123.19 78.74) (xy 123.19 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12fae9a3-2c44-4cd3-81fe-9bc36135ae6e")
 	)
 	(wire
 		(pts
@@ -3390,6 +3400,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 69.85) (xy 123.19 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77ebbc00-9cde-426c-ae52-1bcc0c4b79b1")
+	)
+	(wire
+		(pts
 			(xy 173.99 92.71) (xy 173.99 100.33)
 		)
 		(stroke
@@ -3597,16 +3617,6 @@
 			(type default)
 		)
 		(uuid "e47316b6-fd98-418b-ad24-66a9f321d7d1")
-	)
-	(wire
-		(pts
-			(xy 123.19 69.85) (xy 123.19 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea6fa030-de8c-4a43-895d-53b231ab57f0")
 	)
 	(wire
 		(pts
@@ -4596,26 +4606,27 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4639ac87-4040-4705-bec4-59eae1e7e8fa")
 		(property "Reference" "D4"
-			(at 137.16 75.2475 0)
+			(at 134.112 73.406 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "D_Schottky"
-			(at 134.62 75.2475 0)
+		(property "Value" "CDBU0520"
+			(at 136.144 69.596 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
@@ -5135,6 +5146,85 @@
 			(project "owl_v1"
 				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/ea5d8728-00f8-428c-b241-4d5d58a19c39"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 123.19 74.93 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56b3da1c-3d57-4237-a22a-67dd6eb3706e")
+		(property "Reference" "D5"
+			(at 118.364 74.422 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CDBU0520"
+			(at 120.65 74.676 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+			(at 123.19 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 123.19 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "953ad16f-e79d-48e0-b01c-5371fb1e0792")
+		)
+		(pin "2"
+			(uuid "70b4cfad-7dfd-446f-9574-2809f7dec5ff")
+		)
+		(instances
+			(project "owl_v1"
+				(path "/c1d8d3e2-84ea-437a-bbb1-a2e651deb7ac/ea5d8728-00f8-428c-b241-4d5d58a19c39"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -6580,7 +6670,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fd7024cf-c962-4a77-8df0-5a12c9db9b3a")
 		(property "Reference" "#FLG03"
 			(at 142.24 75.565 0)
@@ -6594,7 +6683,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 142.24 72.39 0)
+			(at 144.018 73.406 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

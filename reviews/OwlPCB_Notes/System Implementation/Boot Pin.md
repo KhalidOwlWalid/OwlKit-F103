@@ -10,3 +10,7 @@ In this case, I need to ensure that the Boot0 pin is constantly pulled down to b
 ![[Pasted image 20261114181622.png]]
 
 I have now put a SPST push button switch and the Boot0 pin is currently pulled down, while Boot1 (PB2) is also pulled down as well.
+
+See:
+
+[traces Update the traces for Boot0 pin with the new SPST push button](c3e4dd23.md)

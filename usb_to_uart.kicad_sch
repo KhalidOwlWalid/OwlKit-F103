@@ -1774,6 +1774,28 @@
 				)
 			)
 		)
+		(property "MPN" "AC0603FR-0727RL"
+			(at 129.54 90.678 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 129.54 90.678 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcfb1ec2-d471-40c0-8c8a-014ec6f809f7")
 		)
@@ -2158,6 +2180,28 @@
 				)
 			)
 		)
+		(property "MPN" "AC0603FR-0727RL"
+			(at 135.89 93.218 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 135.89 93.218 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3d79f00-89e8-47b9-9b61-084ed99e1de7")
 		)
@@ -2399,6 +2443,17 @@
 			)
 		)
 		(property "Manufacturer" "FTDI"
+			(at 182.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C69082"
 			(at 182.88 106.68 0)
 			(hide yes)
 			(show_name no)

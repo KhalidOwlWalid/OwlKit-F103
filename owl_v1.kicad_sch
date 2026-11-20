@@ -6353,7 +6353,7 @@
 				)
 			)
 		)
-		(property "MPN" "06035A250GAT2A"
+		(property "MPN" "CSA0603C0G250J500JT"
 			(at 50.4952 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6364,7 +6364,18 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KYOCERA AVX"
+		(property "Manufacturer" "HRE"
+			(at 50.4952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C20069424"
 			(at 50.4952 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6594,6 +6605,39 @@
 			)
 		)
 		(property "Mounting Type" "SMD"
+			(at 52.07 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "YAGEO"
+			(at 52.07 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RC0603JR-070RL"
+			(at 52.07 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C95177"
 			(at 52.07 65.278 90)
 			(hide yes)
 			(show_name no)
@@ -7268,6 +7312,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Youmile"
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GR-YM-093"
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "386c3543-035f-4bf0-84cc-22177c1b9e2a")
 		)
@@ -7664,6 +7730,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Youmile"
+			(at 140.97 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GR-YM-093"
+			(at 140.97 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4388fc0-8cbe-4521-b5f8-726a5fa188df")
 		)
@@ -7923,7 +8011,7 @@
 				)
 			)
 		)
-		(property "MPN" "06035A250GAT2A"
+		(property "MPN" "CSA0603C0G250J500JT"
 			(at 37.7952 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7934,7 +8022,18 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KYOCERA AVX"
+		(property "Manufacturer" "HRE"
+			(at 37.7952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C20069424"
 			(at 37.7952 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8379,6 +8478,39 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 139.192 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 139.192 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C98220"
+			(at 139.192 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7d45b51c-f73c-45f6-a8a7-ecc482bfd367")
 		)
@@ -8751,6 +8883,39 @@
 			)
 		)
 		(property "Mounting Type" "SMD"
+			(at 147.828 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 147.828 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 147.828 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C98220"
 			(at 147.828 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -9496,7 +9661,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C18830"
+		(property "LCSC Part #" ""
 			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9519,6 +9684,39 @@
 			)
 		)
 		(property "Mounting Type" "SMD"
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AC0603FR-0727RL"
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "815-AISC0603R027GT"
 			(at 247.65 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9620,6 +9818,39 @@
 			)
 		)
 		(property "Mounting Type" "SMD"
+			(at 162.56 85.598 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 162.56 85.598 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 162.56 85.598 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C98220"
 			(at 162.56 85.598 90)
 			(hide yes)
 			(show_name no)

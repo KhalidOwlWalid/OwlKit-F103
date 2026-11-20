@@ -1598,6 +1598,28 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 162.052 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 162.052 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3df83e29-1863-4d45-b808-3db88a1482c4")
 		)
@@ -1912,6 +1934,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 153.67 81.5848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 153.67 81.5848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 153.67 81.5848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 153.67 81.5848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a1721ddd-45f4-4d45-915a-a89b894fc51e")
 		)
@@ -1984,6 +2050,28 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 163.83 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 163.83 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "Through Hole"
 			(at 163.83 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2145,6 +2233,28 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, 1546551-3"
+			(at 210.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 210.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "Through Hole"
 			(at 210.82 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2318,6 +2428,72 @@
 				)
 			)
 		)
+		(property "MPN" "SN65HVD230QDG4"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" "SOIC-8"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "3.3"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Current Consumption" "10"
+			(at 142.24 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "2716280f-a550-4ef3-bf1e-98575cecb359")
 		)
@@ -2406,6 +2582,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 123.19 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 123.19 103.378 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 123.19 103.378 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

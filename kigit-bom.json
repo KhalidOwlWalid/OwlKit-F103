@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "drafts": {},
+  "columns": [
+    "Mounting Type",
+    "Package/Case",
+    "Voltage Rating",
+    "Current Consumption"
+  ],
+  "tracking": {
+    "columns": [
+      "Carted"
+    ],
+    "done": {
+      "Carted": [
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C18",
+        "C19",
+        "C2",
+        "C20",
+        "C21",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C9",
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "D5",
+        "FB1",
+        "J1",
+        "J10",
+        "J6",
+        "U1",
+        "U4",
+        "U5",
+        "Y1",
+        "Y2"
+      ]
+    }
+  }
+}

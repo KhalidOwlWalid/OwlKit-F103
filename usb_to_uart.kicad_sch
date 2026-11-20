@@ -1548,6 +1548,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603N470J100CT"
+			(at 118.11 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Walsin"
+			(at 118.11 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 118.11 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 118.11 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6d3a6633-4317-40ca-8518-5350ca969f1d")
 		)
@@ -1699,6 +1743,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 129.54 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 129.54 90.678 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 129.54 90.678 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1945,6 +2011,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603N470J100CT"
+			(at 128.27 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Walsin"
+			(at 128.27 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 128.27 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 128.27 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e796101f-a855-4c65-ba95-4a3d1585e7b1")
 		)
@@ -2017,6 +2127,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 135.89 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 135.89 93.218 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 135.89 93.218 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2107,6 +2239,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 163.83 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 163.83 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 163.83 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 163.83 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e3606968-0773-4489-a0ad-2a3b3f2eb89d")
 		)
@@ -2180,6 +2356,50 @@
 		)
 		(property "Description" "Full-Speed USB to Basic UART, SSOP-16"
 			(at 157.48 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" "SSOP-16"
+			(at 182.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 182.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FT230XS-R"
+			(at 182.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FTDI"
+			(at 182.88 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

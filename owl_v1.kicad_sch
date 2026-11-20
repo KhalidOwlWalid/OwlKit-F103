@@ -6129,6 +6129,50 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 28.9052 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 28.9052 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "KGM15CT71A106MT"
+			(at 28.9052 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 28.9052 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b6d05be0-577a-484f-ac7c-11fbc8daeed5")
 		)
@@ -6287,6 +6331,50 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 50.4952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 50.4952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "06035A250GAT2A"
+			(at 50.4952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 50.4952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2af071a8-3ee1-4399-9736-b9ca1654d428")
 		)
@@ -6369,6 +6457,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 69.5452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 69.5452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 69.5452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 69.5452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0c8cf9b0-61ea-490a-a44d-1632404ff34b")
 		)
@@ -6441,6 +6573,28 @@
 		)
 		(property "Description" "Resistor, 0R set for now, but should be 5-6x of ESR of crystal"
 			(at 52.07 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 52.07 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 52.07 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6688,6 +6842,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603N5R0C100CT"
+			(at 37.7952 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Walsin"
+			(at 37.7952 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 37.7952 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 37.7952 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5e0ad5cf-9a40-4a55-b442-2ec96a76f13e")
 		)
@@ -6834,6 +7032,50 @@
 			)
 		)
 		(property "Description" "Two pin crystal, ABLS3-8.000MHZ-D4Y-T"
+			(at 43.18 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ABLS3-8.000MHZ-D4Y-T"
+			(at 43.18 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "ABRACON"
+			(at 43.18 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 43.18 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "Through Hole"
 			(at 43.18 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7004,6 +7246,28 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "Through Hole"
+			(at 119.38 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "386c3543-035f-4bf0-84cc-22177c1b9e2a")
 		)
@@ -7084,7 +7348,51 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C52923"
+		(property "LCSC Part #" ""
+			(at 254 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX5R6BB105"
+			(at 254 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 254 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 254 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
 			(at 254 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7334,6 +7642,28 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 140.97 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "Through Hole"
+			(at 140.97 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4388fc0-8cbe-4521-b5f8-726a5fa188df")
 		)
@@ -7571,6 +7901,50 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 37.7952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 37.7952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "06035A250GAT2A"
+			(at 37.7952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 37.7952 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a4e54637-f630-43f7-ad93-3685711aa54b")
 		)
@@ -7653,6 +8027,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 42.8752 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 42.8752 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 42.8752 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 42.8752 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e3755b37-36f7-4b96-82e3-46f0209a7d36")
 		)
@@ -7726,6 +8144,50 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 55.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 56.8452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 56.8452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 56.8452 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 56.8452 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7886,6 +8348,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 140.97 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 139.192 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 139.192 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8130,6 +8614,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 140.0048 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 140.0048 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 140.0048 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 140.0048 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3fb06ae-9a72-45b0-924a-81619f59df0d")
 		)
@@ -8202,6 +8730,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 146.05 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 147.828 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 147.828 53.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8604,6 +9154,54 @@
 				)
 			)
 		)
+		(property "MPN" "STM32F103C8T6"
+			(at 187.96 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 187.96 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package/Case" "LQPF48"
+			(at 187.96 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 187.96 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(pin "13"
 			(uuid "1def7a33-ab29-4d17-98e6-71447a3fc685")
 		)
@@ -8909,6 +9507,28 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 247.65 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d9270f8d-ae9d-46ef-b9bc-6eea4b94747d")
 		)
@@ -8988,6 +9608,28 @@
 				)
 			)
 		)
+		(property "Package/Case" ""
+			(at 162.56 85.598 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 162.56 85.598 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7468e0b0-4eac-406a-8517-cedb328d1e47")
 		)
@@ -9058,6 +9700,50 @@
 			)
 		)
 		(property "Description" "LSE 32.768kHz crystals with 4pF load capacitance"
+			(at 41.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 41.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 41.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LFXTAL084885"
+			(at 41.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "IQD"
 			(at 41.91 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9150,6 +9836,50 @@
 				)
 			)
 		)
+		(property "MPN" "0603N5R0C100CT"
+			(at 47.9552 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Walsin"
+			(at 47.9552 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 47.9552 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
+			(at 47.9552 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "09b99ba8-89c8-4915-8ac5-fbf6e86758d0")
 		)
@@ -9230,7 +9960,51 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1525"
+		(property "LCSC Part #" ""
+			(at 262.89 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603ZC104K4T2A"
+			(at 262.89 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KYOCERA AVX"
+			(at 262.89 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package/Case" ""
+			(at 262.89 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting Type" "SMD"
 			(at 262.89 35.56 0)
 			(hide yes)
 			(show_name no)
